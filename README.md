@@ -18,3 +18,10 @@ Sistema de gerenciamento de estoque desenvolvido em linguagem C, com interface v
 - Structs e ponteiros
 - Alocação dinâmica de memória (malloc)
 - Compatível com Windows e Linux
+
+👨‍💻 Autores
+
+Guilherme Belo Fontes
+Pedro Henrique Sampaio Alves
+Lícia Torres Araújo Freires
+José Deyvid Monteiro Pereira
