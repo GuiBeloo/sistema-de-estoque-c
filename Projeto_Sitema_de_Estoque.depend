@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # depslib dependency file v1.0
 1760318299 source:c:\users\guilh\documents\projeto_sitema_de_estoque\main.c
 	<stdio.h>
@@ -11,3 +12,18 @@
 	<string.h>
 	<locale.h>
 
+=======
+# depslib dependency file v1.0
+1760318299 source:c:\users\guilh\documents\projeto_sitema_de_estoque\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1760318977 source:c:\users\guilh\documents\c_faculdade\projeto_sitema_de_estoque\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+>>>>>>> master
