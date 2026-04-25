@@ -22,13 +22,6 @@ Sistema de gerenciamento de estoque desenvolvido em linguagem C, com interface v
 👨‍💻 Autores
 
 - Guilherme Belo Fontes
-<<<<<<< HEAD
- 
-- Pedro Henrique Sampaio Alves
-- Lícia Torres Araújo Freires
-- José Deyvid Monteiro Pereira
-=======
-
 - Pedro Henrique Sampaio Alves
 - Lícia Torres Araújo Freires
 - José Deyvid Monteiro Pereira
