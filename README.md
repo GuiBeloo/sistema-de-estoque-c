@@ -42,4 +42,4 @@ Listagem de produtos
 
 Busca por nome
 ![Busca](prints/busca.png)
->>>>>>> master
+
